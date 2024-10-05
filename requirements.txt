@@ -1,0 +1,21 @@
+scikit-learn
+# bitsandbytes
+bitsandbytes
+
+# accelerate
+accelerate
+
+# transformers
+transformers
+
+# datasets
+datasets
+
+# TRL (Transformer Reinforcement Learning)
+trl
+
+# PEFT
+peft
+
+# optimum
+optimum
